@@ -1,0 +1,21 @@
+.loading {
+  img {
+    display: flex;
+    position: absolute;
+    width: 300px;
+    right: 40%;
+    top: 30%;
+    animation: loader 2s infinite ease-in-out;
+  }
+}
+@keyframes loader {
+  0% {
+    transform: scale(0.8);
+  }
+  50% {
+    transform: scale(1);
+  }
+  100% {
+    transform: scale(0.8);
+  }
+}

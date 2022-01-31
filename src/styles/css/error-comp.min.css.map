@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,AAAC,CACH,QAAQ,CAAE,QAAQ,CAClB,GAAG,CAAE,GAAG,CACR,IAAI,CAAE,GAAG,CACT,SAAS,CAAE,qBAAqB,CAanC,AAjBD,AAKI,MALE,CAKF,IAAI,AAAC,CACD,KAAK,CAAE,OAAO,CACd,OAAO,CAAE,KAAK,CACd,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,GAAG,CAChB,UAAU,CAAE,MAAM,CAKrB,AAfL,AAWQ,MAXF,CAKF,IAAI,AAMC,UAAW,CAAA,CAAC,CAAE,CACX,KAAK,CAAE,IAAI,CACX,SAAS,CAAE,IAAI,CAClB",
+    "sources": [
+        "../../components/error/error-component/error-comp.scss"
+    ],
+    "names": [],
+    "file": "error-comp.min.css"
+}
